@@ -1,0 +1,30 @@
+﻿{
+	"tittlePic": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/tittlePic.png",
+	"title": "ListView标题信息（自定义）",
+	"listData": [{
+		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app1.png",
+		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
+		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
+		"note": "列表项说明信息"
+	}, {
+		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app2.png",
+		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
+		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
+		"note": "说明信息app2"
+	}, {
+		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app3.png",
+		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
+		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
+		"note": "说明信息app3"
+	}, {
+		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app4.png",
+		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
+		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
+		"note": "说明信息app4"
+	}, {
+		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app5.png",
+		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
+		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
+		"note": "说明信息app5"
+	}]
+}
