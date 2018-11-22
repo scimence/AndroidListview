@@ -7,11 +7,6 @@
 		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
 		"note": "列表项说明信息"
 	}, {
-		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app.gif",
-		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
-		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
-		"note": "gifIcon测试"
-	}, {
 		"iconUrl": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/app2.png",
 		"btnUrl1": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btn.png",
 		"btnUrl2": "https://raw.githubusercontent.com/scimence/AndroidListview/master/files/btnGray.png",
